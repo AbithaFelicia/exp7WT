@@ -9,15 +9,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "bootstrap": "^5.3.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.3.9"
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^4.5.14"
   },
-  "keywords": ["react", "bmi", "calculator", "fitness", "health"],
+  "keywords": [
+    "react",
+    "bmi",
+    "calculator",
+    "fitness",
+    "health"
+  ],
   "author": "Student",
   "license": "MIT"
 }
